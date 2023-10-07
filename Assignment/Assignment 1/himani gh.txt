@@ -1,0 +1,82 @@
+                                        MODULE-1
+
+                                      
+Q-1> what is software? what is software engineearing?
+   
+   A. software:
+    -software is non touchable.
+    -defination:- it means collection of instruction,information and data.  
+    - where instruction is backend part and information is frontend part.
+   B. software eng. :
+    - software enginnearing is a process of developing application to solve real world problem.
+    - in software engineearing we develope, test, and deploy computer application for betterment of the        human being.
+
+Q-2> explain types of software? 
+
+   - there are five types of software,
+            1. system 
+            2. apllication
+            3. programing 
+            4. driver
+            5. middleware
+   1. system software:
+                       a) operating system: it is an interface between machine and human. this interface                or software perform all task for user
+                        ex- windows, apple ios etc.
+                       
+   2. aplication software: it perform specific task by end user.
+                                 web app-website run by user 
+                                    ex: mozzilla,google chrome its web broser.
+                                 desktop app-used to some task on pc/laptop.  
+                                    ex:- microsoft excel,word  etc.
+                                 mobile app-run on mobile platform.
+                                    ex:instagram,whatsapp
+   3.programing software: it means communicate between human & machin by user.
+          ex:compiler,interpreter()
+              -two types of programing
+                          1-  high level programing
+                          2-  low level programing
+                  1] high level: near to human far to machin.
+                       types of high level -
+                       1-POP-procedure oriented programing
+                         ex:c,fortran
+                       2-OOP-object oriented programing
+                         ex:c++,java,.net,c#
+                       3-logical programing
+                          prolog
+                       4.functional programing
+                          ex:python,lisp,hisp
+                       5.scripting programing
+                          ex:java script,nod js,php
+                  2]low level : near to machin far to human.
+                        types of low level-
+                        1-assembly language-which means machin & human communicate. convertion of high                           level language in to machin level language is held by assembler.
+                        2-machin language-its mean binary language.
+                              ex: 0 to 1
+  4.driver software: perfom to owner work in software.
+                             ex:bluetooth driver,audio driver,video driver,network driver
+  5.middleware software:it means gap of application nd opereting system.
+                   system managment }middle
+                   system record  
+                   ex:database	
+
+Que-3 what is SDLC? explain each phase of SDLC?
+      -it means software devlopment life cycle . 
+      - six phase of sdlc       
+      1]planning
+      2]annalysis
+      3]design
+      4]implimentation
+      5]testing
+      6]maintenance 
+    1.planning: planning required operations and security teams.some use case asking to user for input.
+    2.annalysis: the process of requiered to market value,quality satisfiy the client.                       3.design: some companies deside to creat a prototyp while time prototyp is expensive changes                       after devolepment phase.
+    4.implementation: this plan creat a strategy,process and action and will include all projects scop 
+                      to budget and beyond.
+    5.testing: it means checking quelity,functionality.raleased befor market value check by process.                
+Que-4 what is DFD? creat a DFD diagram on flipkart. 
+      -it means data flow chart.
+Que-5.What is flow chart ? creat a flow chart to make       addition of two numbers.
+-flow chart is a graphical representation of any problem in computer system.
+
+Que-6 What is use case diagram?creat diagram a use       case on bill payment on pytm.
+-its means high level functions and process of system we have used to represent the dynamic behavior of system 
